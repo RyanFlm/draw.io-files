@@ -1,1 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T17:02:47.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dC1gaXqdIwu71Q3zeNNU" version="17.1.4" type="github"><diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T17:32:12.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="satJU62-mPT360ZGEDbi" version="17.1.4" type="github">
+  <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
+    <mxGraphModel dx="2062" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="17ea667e15c223fc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="17ea667e15c223fc-13" target="17ea667e15c223fc-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17ea667e15c223fc-13" value="DNS Einträge sollen geprüft werden" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="17ea667e15c223fc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17ea667e15c223fc-14" target="AFtI0mJJeP0NbjCr_A5s-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ea667e15c223fc-14" value="Prüfe ob die Sender-E-Mail-Adresse eingestellt ist" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="470" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-1" target="AFtI0mJJeP0NbjCr_A5s-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-1" value="Adresse eingestellt?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-11" value="Nein" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-12" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-13" value="Domain aus der E-Mail-Adresse parsen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-16" value="Test fehlgeschlagen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="202.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-17" value="SPF Eintrag der Domain lesen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-13" target="AFtI0mJJeP0NbjCr_A5s-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="350" as="targetPoint" />
+            <mxPoint x="540" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-19" value="Gibt es den&lt;br&gt;SPF Eintrag?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="325" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-17" target="AFtI0mJJeP0NbjCr_A5s-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="targetPoint" />
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="375" />
+              <mxPoint x="450" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="AFtI0mJJeP0NbjCr_A5s-16" source="AFtI0mJJeP0NbjCr_A5s-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="580" as="sourcePoint" />
+            <mxPoint x="650" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-22" value="Nein" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-1" target="AFtI0mJJeP0NbjCr_A5s-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="340" as="targetPoint" />
+            <mxPoint x="530" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-26" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-19" target="AFtI0mJJeP0NbjCr_A5s-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="480" as="targetPoint" />
+            <mxPoint x="370" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-30" value="SPF Eintrag parsen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="470" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-31" value="Ist die IP des Systems enthalten?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="675" y="445" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-30" target="AFtI0mJJeP0NbjCr_A5s-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="480" as="targetPoint" />
+            <mxPoint x="540" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-31" target="AFtI0mJJeP0NbjCr_A5s-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="505" as="targetPoint" />
+            <mxPoint x="590" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-34" value="Nein" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-31" target="AFtI0mJJeP0NbjCr_A5s-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="600" as="targetPoint" />
+            <mxPoint x="590" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-36" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-37" value="Entsprechenden DKIM Eintrag lesen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-38" value="Stimmt der gegebene DKIM Schlüssel" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-37" target="AFtI0mJJeP0NbjCr_A5s-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="610" as="targetPoint" />
+            <mxPoint x="735" y="555" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-38" target="AFtI0mJJeP0NbjCr_A5s-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="635" as="targetPoint" />
+            <mxPoint x="685" y="635" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="700" />
+              <mxPoint x="860" y="700" />
+              <mxPoint x="860" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-41" value="Nein" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFtI0mJJeP0NbjCr_A5s-38" target="AFtI0mJJeP0NbjCr_A5s-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="620" as="targetPoint" />
+            <mxPoint x="685" y="635" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-43" value="Test erfolgreich" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="592.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="AFtI0mJJeP0NbjCr_A5s-44" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
